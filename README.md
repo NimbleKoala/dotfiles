@@ -6,5 +6,5 @@ Cinnamon Theme: Colloid Dark
 Icons: Papirus-Dark
 Terminal: Alacritty
 Dock: Plank
-
+Launcher: Rofi
 
